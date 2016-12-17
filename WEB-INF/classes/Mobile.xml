@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+     <product id="006" retailer="BestDeal">
+			<image>acer.jpg</image>
+			<name>acer</name>
+			<condition>New</condition>
+			<price>399</price>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>earphone</accessory>
+			</accessories>
+     </product>
+
+     <product id="007" retailer="BestDeal">
+			<image>apple.jpg</image>
+			<name>apple</name>
+			<condition>Reburbished</condition>
+			<price>499</price>
+			<accessories>
+				<accessory>Charger</accessory>
+				<accessory>earphone</accessory>
+			</accessories>
+	 </product>   
+     <product id="008" retailer="BestDeal">
+			<image>htc.jpg</image>
+			<name>htc</name>
+			<condition>Reburbished</condition>
+			<price>399</price>
+			<accessories>
+				<accessory>Charger</accessory>
+				<accessory>cover</accessory>
+			</accessories>
+	 </product>  
+
+     <product id="009" retailer="BestDeal">
+			<image>samsung.jpg</image>
+			<name>samsung</name>
+			<condition>Reburbished</condition>
+			<price>499</price>
+			<accessories>
+				<accessory>Charger</accessory>
+				<accessory>UTG Cable</accessory>
+			</accessories>
+	 </product>  
+     <product id="010" retailer="BestDeal">
+			<image>sony.jpg</image>
+			<name>sony</name>
+			<condition>Reburbished</condition>
+			<price>399</price>
+			<accessories>
+				<accessory>Charger</accessory>
+				<accessory>stylus</accessory>
+			</accessories>
+	 </product>  	 
+</Product>

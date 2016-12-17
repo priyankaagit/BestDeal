@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+     <product id="001" retailer="BestDeal">
+			<image>lenovo.jpg</image>
+			<name>Lenovo</name>
+			<condition>New</condition>
+			<price>399</price>
+			<accessories>
+				<accessory>Thinkpad Charger</accessory>
+				<accessory>Mouse</accessory>
+			</accessories>
+     </product>
+
+     <product id="002" retailer="BestDeal">
+			<image>ASUS.jpg</image>
+			<name>asus</name>
+			<condition>Reburbished</condition>
+			<price>299</price>
+			<accessories>
+				<accessory>Charger</accessory>
+				<accessory>Mouse</accessory>
+			</accessories>
+	 </product>   
+     <product id="003" retailer="BestDeal">
+			<image>samsung.jpg</image>
+			<name>Samsung</name>
+			<condition>Reburbished</condition>
+			<price>299</price>
+			<accessories>
+				<accessory>Charger</accessory>
+				<accessory>Mouse</accessory>
+			</accessories>
+	 </product>  
+
+     <product id="004" retailer="BestDeal">
+			<image>HP.jpg</image>
+			<name>HP</name>
+			<condition>Reburbished</condition>
+			<price>299</price>
+			<accessories>
+				<accessory>Charger</accessory>
+				<accessory>Mouse</accessory>
+			</accessories>
+	 </product>  
+     <product id="005" retailer="BestDeal">
+			<image>dell.jpg</image>
+			<name>dell</name>
+			<condition>Reburbished</condition>
+			<price>299</price>
+			<accessories>
+				<accessory>Charger</accessory>
+				<accessory>Mouse</accessory>
+			</accessories>
+	 </product>  	 
+</Product>
